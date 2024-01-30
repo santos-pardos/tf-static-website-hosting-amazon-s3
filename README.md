@@ -80,5 +80,8 @@ I appreciate your interest in this project and thank you for taking the time to 
 
 ## Contribution
 
+## Links
+https://pratapsharma.com.np/creating-aws-ec2-instance-terraform
+
 Contributions to this project are welcomed! Whether it's reporting bugs, suggesting enhancements, or writing and refactoring code, your help is always appreciated. Feel free to open an issue or create a pull request.
 
